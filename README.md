@@ -1,1 +1,1 @@
-Acesse meu projeto <a href="https://wallacesouzapy.github.io/projeto-androi/ Target="-blank"</a>
+Acesse meu projeto https://wallacesouzapy.github.io/projeto-androi/
